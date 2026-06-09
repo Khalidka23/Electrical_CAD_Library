@@ -1,2 +1,17 @@
 # Electrical_CAD_Library
-Personal electrical engineering CAD library containing AutoCAD blocks, legends, templates, symbols, standard details, and project resources for building electrical design.
+
+Personal library of electrical engineering resources including:
+
+- AutoCAD blocks
+- Electrical legends
+- Lighting symbols
+- Power symbols
+- Fire alarm symbols
+- CCTV symbols
+- Data symbols
+- Earthing details
+- Title blocks
+- Templates
+
+Purpose:
+To maintain a reusable electrical design toolkit for consulting and construction projects.
